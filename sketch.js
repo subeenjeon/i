@@ -18,10 +18,8 @@ function draw() {
 		mouseX / 640 * 128 + Math. random() * 128,
 		mouseY / 480 * 255, 0);
 
-// fill(fillColor);
-// rect(100, 100, 100, 100);
-	fill(mouseColor);
-	ellipse(150,150,200,200);
+//fill(fillColor);//
+//rect(100, 100, 100, 100);//
 
 	fill(fillColor);
 	rect(100, 100, 100, 100);
